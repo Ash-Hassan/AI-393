@@ -1,4 +1,4 @@
-# HCI 104475: Conway Game of Life - An OS course project #
+# AI 106393: An AI course project #
 ### PROJECT MEMBERS ###
 StdID | Name
 ------------ | -------------
@@ -7,7 +7,7 @@ StdID | Name
 <!-- Replace name and student ids with acutally group member names and ids-->
 
 ## Description ##
-This repository contains assignments and project submitted to DM course offered in Fall 2020 at PafKiet.
+This repository contains assignments and project submitted to AI course offered in Spring 2021 at PafKiet.
 
 ## Approach ##
 <!--First i learn the rules of the game then i googled some source code and found 1 of c# from geeksforgeeks but that was method based and hardcoded.
