@@ -23,7 +23,7 @@ Finally we submitted the prediction in the right format on the kaggle and got th
 ## Problems Faces ##
 
 ### Problem 1:Low knowledge of Data Science. ###
-Currently doing a course from Frontier Technolodgy Institue which helped.-->
+Currently doing a course from Frontier Technolodgy Institue which helped.
 
 ### Problem 2: When using regression Got really low accuracy/when using all features. ###
 regression was not working great and i needed to reduce the features as well so i used chi square for that and changed the model from reggression to svm.
@@ -36,4 +36,4 @@ working late at night :)
 
 ## References ##
 - Basic syntax of svm: https://scikit-learn.org/stable/modules/svm.html#classification
-- Many other website for sytax checking and eleminating errors.-->
+- Many other website for sytax checking and eleminating errors.
