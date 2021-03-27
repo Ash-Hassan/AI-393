@@ -28,7 +28,7 @@ Currently doing a course from Frontier Technolodgy Institue which helped.-->
 ### Problem 2: When using regression Got really low accuracy/when using all features. ###
 regression was not working great and i needed to reduce the features as well so i used chi square for that and changed the model from reggression to svm.
 
-### Problem 3: Exporting the file was not in correct format as indexing was also in the file with 'ImageId' and 'Label'.###
+### Problem 3: Exporting the file was not in correct format as indexing was also in the file with 'ImageId' and 'Label'. ###
 Turns out we only needed was to add a parameter of index=False when using to_csv() function.
 
 ### Problem 4: Time Constarint as i started the project three days before deadline ###
