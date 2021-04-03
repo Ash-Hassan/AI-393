@@ -13,20 +13,19 @@ We got the dataset from kaggle both Test and Train data and then submit the pred
 
 ## Approach ##
 First we loaded the data and check the data for any errors or null basicaly perform the Exploratory Data Analysis.
-After that we did the a/b testing using chi-Square and reduced the feature/columns to 587 from 784.
-Then we splited the data 80% for training  and 20% for testing with some random states.
-Further we train the model with the training data with 587 features as X and the 'label' with Y.
-Moreover we tested the model by doing the prediction with 20% data that was splitted earlier.
-Lastly we checked the accuracy of the models and did the prediction of the real test data from kaggle.
-Finally we submitted the prediction in the right format on the kaggle and got the score of 0.97.
+After that we normalize the pixels(data) and split x and y for training and testing.
+Further we train the regression model and check the accuracy and it was too low to be used.
+Then we train naive bayes models and check the accuracy it was good but not the best.
+lastly we train the SVM model and saw that it had the best accuracy among all which was 0.97 but for svm model to perform better all i needed to do was apply grid search and tune the parameters so i got the accuracy of 98%.
+Finally we used the SVM model to do the prediction and got the score of 0.98 on kaggle.
 
 ## Problems Faces ##
 
 ### Problem 1:Low knowledge of Data Science. ###
 Currently doing a course from Frontier Technolodgy Institue which helped.
 
-### Problem 2: When using regression Got really low accuracy/when using all features. ###
-regression was not working great and i needed to reduce the features as well so i used chi square for that and changed the model from reggression to svm.
+### Problem 2: When using regression Got really low accuracy. ###
+regression was not working great so i changed the model from reggression to naive bayes then to svm.
 
 ### Problem 3: Exporting the file was not in correct format as indexing was also in the file with 'ImageId' and 'Label'. ###
 Turns out we only needed was to add a parameter of index=False when using to_csv() function.
