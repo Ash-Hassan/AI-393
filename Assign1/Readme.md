@@ -34,5 +34,5 @@ Turns out we only needed was to add a parameter of index=False when using to_csv
 working late at night :)
 
 ## References ##
-- Basic syntax of svm: https://scikit-learn.org/stable/modules/svm.html#classification
+- Basic syntax of Each Prediction model : https://scikit-learn.org/
 - Many other website for sytax checking and eleminating errors.
