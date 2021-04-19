@@ -30,7 +30,7 @@ regression was not working great so i changed the model from reggression to naiv
 ### Problem 3: Exporting the file was not in correct format as indexing was also in the file with 'ImageId' and 'Label'. ###
 Turns out we only needed was to add a parameter of index=False when using to_csv() function.
 
-### Problem 4: Time Constarint as i started the project three days before deadline ###
+### Problem 4: Time Constarint as this semester there was a lot of quizes and assignments ###
 working late at night :)
 
 ## References ##
