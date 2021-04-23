@@ -61,4 +61,5 @@ We got the dataset from kaggle both Test and Train data and then train the model
 ## References ##
 
 - Basic syntax of Each Prediction model : https://scikit-learn.org/
+- Convolution Filter : https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.convolve2d.html#scipy.signal.convolve2d
 - Many other website for sytax checking and eleminating errors.
