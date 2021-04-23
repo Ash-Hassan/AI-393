@@ -1,0 +1,12 @@
+Link:https://www.kaggle.com/mhassanzaheer/assign1#Naive-Bayes
+Areeba's code:
+
+Mandatory kaggle stuff
+importing libraries
+Linear Regression(just print the accuracy)
+
+Javeria's code:
+
+Mandatory kaggle stuff
+importing libraries
+Naive Bayes(just print the accuracy)
