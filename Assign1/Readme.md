@@ -12,7 +12,7 @@ This repository contains assignment 1 submitted to AI course offered in Spring 2
 We got the dataset from kaggle both Test and Train data and then train the models and selected the best model which was svm.Then we submited the predicted data on kaggle and got the score/accuracy of 0.98.
 
 ## Approach ##
-=
+
 ### Possible Approaches ###
 #### Approach 1: Keeping it Simple ####
 - Load the datasets
@@ -39,7 +39,6 @@ We got the dataset from kaggle both Test and Train data and then train the model
 - I have not uploaded the code of Gridsearch and chisquare but i have implemented both seprately and got the required parameters for svm where as the chisquare as more or less performing the same as taking all the features so i dropped the idea of chisquare.
 
 ## Problems Faces ##
-=
 
 ### Problem 1:Large Number of Features for training. ###
 - In training data we have 784 Features which quite large for training, So we have to reduce the columns by using some technique's like chisquare,Convolution filters etc. But the problem with chi-square is that it is used between to catagorical variables and for convolution filter it was applied in final project.
@@ -60,6 +59,6 @@ We got the dataset from kaggle both Test and Train data and then train the model
 - Working late at night :)
 
 ## References ##
-=
+
 - Basic syntax of Each Prediction model : https://scikit-learn.org/
 - Many other website for sytax checking and eleminating errors.
