@@ -25,7 +25,12 @@ We got the dataset from kaggle both Test and Train data and then train the model
 - The only issue with the simple approach is it has large number of features so in this approach we can reduce it.
 - Using chi-square, Selectkbest, etc.
 
-#### Approach 3: Going all Out ####
+#### Approach 3: Deceptively Complex ####
+-
+-
+
+
+#### Approach 4: Going all Out ####
 - Use Deep learning models like CNN and make predictions on it i saw on kaggle people have acchived 100% with it.
 - It requires extensive research, computation power and domain knowledge.
 
