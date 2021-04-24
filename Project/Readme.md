@@ -31,7 +31,6 @@ We got the dataset from kaggle both Test and Train data and then apply convoluti
 - Then check the outputed datasets with diffrent clasification models.
 - Select the most accurate one and make the predictions!!
 
-
 #### Approach 4: Going all Out ####
 - Use Deep learning models like CNN and make predictions on it i saw on kaggle people have acchived 100% with it.
 - It requires extensive research, computation power and domain knowledge.
