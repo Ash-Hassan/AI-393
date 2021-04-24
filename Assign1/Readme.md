@@ -25,7 +25,13 @@ We got the dataset from kaggle both Test and Train data and then train the model
 - The only issue with the simple approach is it has large number of features so in this approach we can reduce it.
 - Using chi-square, Selectkbest, etc.
 
-#### Approach 3: Going all Out ####
+#### Approach 3: Deceptively Complex ####
+- Following the lead of approach 2 here we will also reduce the features but with a twist.
+- We will be using convolution filter technique to reduce the features and only use those features that are related to the target column.
+- Then check the outputed datasets with diffrent clasification models.
+- Select the most accurate one and make the predictions!!
+
+#### Approach 4: Going all Out ####
 - Use Deep learning models like CNN and make predictions on it i saw on kaggle people have acchived 100% with it.
 - It requires extensive research, computation power and domain knowledge.
 
