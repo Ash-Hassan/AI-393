@@ -9,7 +9,7 @@ StdID | Name
 
 ## Description ##
 This repository contains the Final Project submitted to AI course offered in Spring 2021 at PafKiet.
-We got the dataset from kaggle both Test and Train data and then train the models and selected the best model which was svm.Then we submited the predicted data on kaggle and got the score/accuracy of 0.98.
+We got the dataset from kaggle both Test and Train data and then apply convolution after which we train the models and selected the best Combo which was svm and 5x5inc.Then we submited the predicted data on kaggle and got the score/accuracy of 0.98.
 
 ## Approach ##
 
