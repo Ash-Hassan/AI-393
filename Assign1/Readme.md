@@ -29,7 +29,7 @@ We got the dataset from kaggle both Test and Train data and then train the model
 - Use Deep learning models like CNN and make predictions on it i saw on kaggle people have acchived 100% with it.
 - It requires extensive research, computation power and domain knowledge.
 
-### Approach I Implemented ###
+### Approach I Implemented was Keeping it Simple ###
 - First the data is loaded and checked for any errors or null basicaly perform the Exploratory Data Analysis.
 - After that we normalize the pixels(data) and split x and y for training and testing.
 - Further we train the regression model and check the accuracy and it was too low to be used.
