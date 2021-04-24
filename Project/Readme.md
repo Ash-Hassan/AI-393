@@ -8,7 +8,7 @@ StdID | Name
 <!-- Replace name and student ids with acutally group member names and ids-->
 
 ## Description ##
-This repository contains assignment 1 submitted to AI course offered in Spring 2021 at PafKiet.
+This repository contains the Final Project submitted to AI course offered in Spring 2021 at PafKiet.
 We got the dataset from kaggle both Test and Train data and then train the models and selected the best model which was svm.Then we submited the predicted data on kaggle and got the score/accuracy of 0.98.
 
 ## Approach ##
