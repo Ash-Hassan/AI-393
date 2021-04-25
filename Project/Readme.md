@@ -46,6 +46,7 @@ We got the dataset from kaggle both Test and Train data and then apply convoluti
 - It had the best accuracy among all which was 98.08%.
 - Then I imported the testing dataset and apply the same convolution on it to match the number of features.
 - Finally we used that combo model to do the prediction and got the score of 0.9808 on kaggle.
+- honourable mention: I saw many notebooks on kaggle implementing cnn and using the kernal sie 3x3, I tried using that size but it was taking more that 2 hours just to run a single cell so i dropped that idea. I believe if we have used that filter and size we could have achived more then our current accuracy.
 
 ## Problems Faces ##
 
