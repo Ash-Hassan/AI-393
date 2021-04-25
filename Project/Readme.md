@@ -41,6 +41,7 @@ We got the dataset from kaggle both Test and Train data and then apply convoluti
 - Here we use 3 sizes 5x5,7x7 and 9x9 with 2 different filters.
 - By doing this I got 6 unique datasets with reduced features.
 - Then we apply 4 ML models(LR,KNN,SVM,NB) on those 6 datasets.
+- We also Evaluated all datasets by Cross validations.
 - After that we saw the best combo that has the highes accuracy was the 5x5(wighted filter) and SVM(hyperTuned) model.
 - It had the best accuracy among all which was 98.08%.
 - Then I imported the testing dataset and apply the same convolution on it to match the number of features.
